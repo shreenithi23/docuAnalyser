@@ -1,0 +1,6 @@
+streamlit
+nltk
+transformers
+torch
+python-docx
+PyPDF2
